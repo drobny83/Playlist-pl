@@ -1,0 +1,347 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP 1
+http://nasaiptv.com:8080/osn89089/678389tra/214974
+#EXTINF:-1 ,TVP 2
+http://nasaiptv.com:8080/osn89089/678389tra/214973
+#EXTINF:-1 ,TVP 3
+http://nasaiptv.com:8080/osn89089/678389tra/214972
+#EXTINF:-1 ,TV4
+http://nasaiptv.com:8080/osn89089/678389tra/214971
+#EXTINF:-1 ,Tele 5
+http://nasaiptv.com:8080/osn89089/678389tra/214970
+#EXTINF:-1 ,TV6
+http://nasaiptv.com:8080/osn89089/678389tra/214969
+#EXTINF:-1 ,Polsat
+http://nasaiptv.com:8080/osn89089/678389tra/214968
+#EXTINF:-1 ,Polsat 2
+http://nasaiptv.com:8080/osn89089/678389tra/214967
+#EXTINF:-1 ,Super Polsat
+http://nasaiptv.com:8080/osn89089/678389tra/214966
+#EXTINF:-1 ,TVN
+http://nasaiptv.com:8080/osn89089/678389tra/214965
+#EXTINF:-1 ,TVN 7
+http://nasaiptv.com:8080/osn89089/678389tra/214964
+#EXTINF:-1 ,TVS
+http://nasaiptv.com:8080/osn89089/678389tra/214963
+#EXTINF:-1 ,TTV
+http://nasaiptv.com:8080/osn89089/678389tra/214962
+#EXTINF:-1 ,TV PULS
+http://nasaiptv.com:8080/osn89089/678389tra/214961
+#EXTINF:-1 ,Polsat Rodzina
+http://nasaiptv.com:8080/osn89089/678389tra/214960
+#EXTINF:-1 ,Canal+ Premium
+http://nasaiptv.com:8080/osn89089/678389tra/214958
+#EXTINF:-1 ,Canal+1
+http://nasaiptv.com:8080/osn89089/678389tra/214957
+#EXTINF:-1 ,Canal+ Family
+http://nasaiptv.com:8080/osn89089/678389tra/214956
+#EXTINF:-1 ,Canal+ Dokument
+http://nasaiptv.com:8080/osn89089/678389tra/214955
+#EXTINF:-1 ,Canal+ Now
+http://nasaiptv.com:8080/osn89089/678389tra/214954
+#EXTINF:-1 ,CANAL+ FILM
+http://nasaiptv.com:8080/osn89089/678389tra/214953
+#EXTINF:-1 ,Canal+ Seriale
+http://nasaiptv.com:8080/osn89089/678389tra/214952
+#EXTINF:-1 ,FilmBox Extra
+http://nasaiptv.com:8080/osn89089/678389tra/214951
+#EXTINF:-1 ,Filmbox Premium
+http://nasaiptv.com:8080/osn89089/678389tra/214950
+#EXTINF:-1 ,FilmBox Action
+http://nasaiptv.com:8080/osn89089/678389tra/214949
+#EXTINF:-1 ,FilmBox Family
+http://nasaiptv.com:8080/osn89089/678389tra/214948
+#EXTINF:-1 ,Filmbox Arthouse
+http://nasaiptv.com:8080/osn89089/678389tra/214947
+#EXTINF:-1 ,Cinemax
+http://nasaiptv.com:8080/osn89089/678389tra/214946
+#EXTINF:-1 ,Cinemax 2
+http://nasaiptv.com:8080/osn89089/678389tra/214945
+#EXTINF:-1 ,HBO
+http://nasaiptv.com:8080/osn89089/678389tra/214944
+#EXTINF:-1 ,HBO 2
+http://nasaiptv.com:8080/osn89089/678389tra/214943
+#EXTINF:-1 ,HBO 3
+http://nasaiptv.com:8080/osn89089/678389tra/214942
+#EXTINF:-1 ,VOD 205
+http://nasaiptv.com:8080/osn89089/678389tra/214941
+#EXTINF:-1 ,VOD 206
+http://nasaiptv.com:8080/osn89089/678389tra/214940
+#EXTINF:-1 ,VOD 207
+http://nasaiptv.com:8080/osn89089/678389tra/214939
+#EXTINF:-1 ,VOD 208
+http://nasaiptv.com:8080/osn89089/678389tra/214938
+#EXTINF:-1 ,KINO POLSKA
+http://nasaiptv.com:8080/osn89089/678389tra/214936
+#EXTINF:-1 ,FX
+http://nasaiptv.com:8080/osn89089/678389tra/214935
+#EXTINF:-1 ,Fx Comedy
+http://nasaiptv.com:8080/osn89089/678389tra/214933
+#EXTINF:-1 ,AXN
+http://nasaiptv.com:8080/osn89089/678389tra/214930
+#EXTINF:-1 ,AXN White
+http://nasaiptv.com:8080/osn89089/678389tra/214929
+#EXTINF:-1 ,AXN Black
+http://nasaiptv.com:8080/osn89089/678389tra/214928
+#EXTINF:-1 ,AXN SPIN
+http://nasaiptv.com:8080/osn89089/678389tra/214927
+#EXTINF:-1 ,SciFi
+http://nasaiptv.com:8080/osn89089/678389tra/214926
+#EXTINF:-1 ,13 Ulica
+http://nasaiptv.com:8080/osn89089/678389tra/214925
+#EXTINF:-1 ,E! Entertainment
+http://nasaiptv.com:8080/osn89089/678389tra/214924
+#EXTINF:-1 ,TVP SERIALE
+http://nasaiptv.com:8080/osn89089/678389tra/214923
+#EXTINF:-1 ,CBS Europa
+http://nasaiptv.com:8080/osn89089/678389tra/214922
+#EXTINF:-1 ,Polsat Seriale
+http://nasaiptv.com:8080/osn89089/678389tra/214921
+#EXTINF:-1 ,Comedy Central
+http://nasaiptv.com:8080/osn89089/678389tra/214920
+#EXTINF:-1 ,TLC
+http://nasaiptv.com:8080/osn89089/678389tra/214919
+#EXTINF:-1 ,Paramount Channel
+http://nasaiptv.com:8080/osn89089/678389tra/214918
+#EXTINF:-1 ,AMC
+http://nasaiptv.com:8080/osn89089/678389tra/214917
+#EXTINF:-1 ,TVP Kultura
+http://nasaiptv.com:8080/osn89089/678389tra/214916
+#EXTINF:-1 ,Travel Channel
+http://nasaiptv.com:8080/osn89089/678389tra/214915
+#EXTINF:-1 ,TVN Fabula
+http://nasaiptv.com:8080/osn89089/678389tra/214914
+#EXTINF:-1 ,TVN Turbo
+http://nasaiptv.com:8080/osn89089/678389tra/214913
+#EXTINF:-1 ,Adventure
+http://nasaiptv.com:8080/osn89089/678389tra/214912
+#EXTINF:-1 ,Da Vinci
+http://nasaiptv.com:8080/osn89089/678389tra/214911
+#EXTINF:-1 ,Food Network
+http://nasaiptv.com:8080/osn89089/678389tra/214910
+#EXTINF:-1 ,DOMO+
+http://nasaiptv.com:8080/osn89089/678389tra/214909
+#EXTINF:-1 ,DTX
+http://nasaiptv.com:8080/osn89089/678389tra/214908
+#EXTINF:-1 ,Fokus TV
+http://nasaiptv.com:8080/osn89089/678389tra/214906
+#EXTINF:-1 ,Kuchnia+
+http://nasaiptv.com:8080/osn89089/678389tra/214905
+#EXTINF:-1 ,Motowizja
+http://nasaiptv.com:8080/osn89089/678389tra/214904
+#EXTINF:-1 ,Nuta TV
+http://nasaiptv.com:8080/osn89089/678389tra/214903
+#EXTINF:-1 ,Romance TV
+http://nasaiptv.com:8080/osn89089/678389tra/214902
+#EXTINF:-1 ,WP
+http://nasaiptv.com:8080/osn89089/678389tra/214901
+#EXTINF:-1 ,Active Family
+http://nasaiptv.com:8080/osn89089/678389tra/214900
+#EXTINF:-1 ,BBC Brit
+http://nasaiptv.com:8080/osn89089/678389tra/214899
+#EXTINF:-1 ,BBC FIRST
+http://nasaiptv.com:8080/osn89089/678389tra/214898
+#EXTINF:-1 ,TVN 24
+http://nasaiptv.com:8080/osn89089/678389tra/214896
+#EXTINF:-1 ,Polsat News
+http://nasaiptv.com:8080/osn89089/678389tra/214894
+#EXTINF:-1 ,Polsat News 2
+http://nasaiptv.com:8080/osn89089/678389tra/214893
+#EXTINF:-1 ,Wydarzenia 24
+http://nasaiptv.com:8080/osn89089/678389tra/214892
+#EXTINF:-1 ,TV Republika
+http://nasaiptv.com:8080/osn89089/678389tra/214891
+#EXTINF:-1 ,wPolsce.pl
+http://nasaiptv.com:8080/osn89089/678389tra/214890
+#EXTINF:-1 ,TVP INFO
+http://nasaiptv.com:8080/osn89089/678389tra/214889
+#EXTINF:-1 ,Polsat Comedy Central Extra
+http://nasaiptv.com:8080/osn89089/678389tra/214888
+#EXTINF:-1 ,Polsat Jim Jam
+http://nasaiptv.com:8080/osn89089/678389tra/214886
+#EXTINF:-1 ,Boomerang
+http://nasaiptv.com:8080/osn89089/678389tra/214885
+#EXTINF:-1 ,Cartoon Network
+http://nasaiptv.com:8080/osn89089/678389tra/214884
+#EXTINF:-1 ,Disney XD
+http://nasaiptv.com:8080/osn89089/678389tra/214883
+#EXTINF:-1 ,Disney Channel
+http://nasaiptv.com:8080/osn89089/678389tra/214882
+#EXTINF:-1 ,Disney Junior
+http://nasaiptv.com:8080/osn89089/678389tra/214881
+#EXTINF:-1 ,Nick Jr
+http://nasaiptv.com:8080/osn89089/678389tra/214880
+#EXTINF:-1 ,Nickelodeon
+http://nasaiptv.com:8080/osn89089/678389tra/214879
+#EXTINF:-1 ,NickToons
+http://nasaiptv.com:8080/osn89089/678389tra/214878
+#EXTINF:-1 ,teleTOON+
+http://nasaiptv.com:8080/osn89089/678389tra/214877
+#EXTINF:-1 ,MiniMini+
+http://nasaiptv.com:8080/osn89089/678389tra/214876
+#EXTINF:-1 ,BBC Cbeebies
+http://nasaiptv.com:8080/osn89089/678389tra/214875
+#EXTINF:-1 ,Polsat Games
+http://nasaiptv.com:8080/osn89089/678389tra/214874
+#EXTINF:-1 ,Nat Geo
+http://nasaiptv.com:8080/osn89089/678389tra/214872
+#EXTINF:-1 ,Nat Geo Wild
+http://nasaiptv.com:8080/osn89089/678389tra/214871
+#EXTINF:-1 ,Nat Geo People
+http://nasaiptv.com:8080/osn89089/678389tra/214870
+#EXTINF:-1 ,Animal Planet
+http://nasaiptv.com:8080/osn89089/678389tra/214869
+#EXTINF:-1 ,Planete+
+http://nasaiptv.com:8080/osn89089/678389tra/214868
+#EXTINF:-1 ,CI Polsat
+http://nasaiptv.com:8080/osn89089/678389tra/214867
+#EXTINF:-1 ,History
+http://nasaiptv.com:8080/osn89089/678389tra/214866
+#EXTINF:-1 ,History 2
+http://nasaiptv.com:8080/osn89089/678389tra/214865
+#EXTINF:-1 ,TVP Historia
+http://nasaiptv.com:8080/osn89089/678389tra/214864
+#EXTINF:-1 ,Polsat Viasat History
+http://nasaiptv.com:8080/osn89089/678389tra/214863
+#EXTINF:-1 ,ID
+http://nasaiptv.com:8080/osn89089/678389tra/214862
+#EXTINF:-1 ,BBC Earth
+http://nasaiptv.com:8080/osn89089/678389tra/214861
+#EXTINF:-1 ,Polsat Doku
+http://nasaiptv.com:8080/osn89089/678389tra/214860
+#EXTINF:-1 ,Discovery
+http://nasaiptv.com:8080/osn89089/678389tra/214859
+#EXTINF:-1 ,Discovery Science
+http://nasaiptv.com:8080/osn89089/678389tra/214858
+#EXTINF:-1 ,Discovery Life
+http://nasaiptv.com:8080/osn89089/678389tra/214857
+#EXTINF:-1 ,Discovery Historia
+http://nasaiptv.com:8080/osn89089/678389tra/214856
+#EXTINF:-1 ,Disco Polo Music
+http://nasaiptv.com:8080/osn89089/678389tra/214855
+#EXTINF:-1 ,4Fun Gold Hits
+http://nasaiptv.com:8080/osn89089/678389tra/214854
+#EXTINF:-1 ,4Fun Dance
+http://nasaiptv.com:8080/osn89089/678389tra/214853
+#EXTINF:-1 ,Polsat Viasat Nature
+http://nasaiptv.com:8080/osn89089/678389tra/214852
+#EXTINF:-1 ,Polsat Viasat Explore
+http://nasaiptv.com:8080/osn89089/678389tra/214851
+#EXTINF:-1 ,Polsat Sport
+http://nasaiptv.com:8080/osn89089/678389tra/214849
+#EXTINF:-1 ,Polsat Sport News
+http://nasaiptv.com:8080/osn89089/678389tra/214847
+#EXTINF:-1 ,Polsat Sport Extra
+http://nasaiptv.com:8080/osn89089/678389tra/214845
+#EXTINF:-1 ,Canal+ Sport 1
+http://nasaiptv.com:8080/osn89089/678389tra/214843
+#EXTINF:-1 ,Canal+ Sport 2
+http://nasaiptv.com:8080/osn89089/678389tra/214842
+#EXTINF:-1 ,CANAL+ SPORT 3
+http://nasaiptv.com:8080/osn89089/678389tra/214841
+#EXTINF:-1 ,CANAL+ SPORT 4
+http://nasaiptv.com:8080/osn89089/678389tra/214840
+#EXTINF:-1 ,Canal+ Sport 5
+http://nasaiptv.com:8080/osn89089/678389tra/214839
+#EXTINF:-1 ,Sport klub
+http://nasaiptv.com:8080/osn89089/678389tra/214838
+#EXTINF:-1 ,TVP Sport
+http://nasaiptv.com:8080/osn89089/678389tra/214837
+#EXTINF:-1 ,Eurosport 1
+http://nasaiptv.com:8080/osn89089/678389tra/214835
+#EXTINF:-1 ,Eurosport 2
+http://nasaiptv.com:8080/osn89089/678389tra/214833
+#EXTINF:-1 ,Eleven Sports 1
+http://nasaiptv.com:8080/osn89089/678389tra/214831
+#EXTINF:-1 ,Eleven Sports 2
+http://nasaiptv.com:8080/osn89089/678389tra/214829
+#EXTINF:-1 ,Eleven Sports 3
+http://nasaiptv.com:8080/osn89089/678389tra/214828
+#EXTINF:-1 ,ELEVEN SPORTS 4
+http://nasaiptv.com:8080/osn89089/678389tra/214826
+#EXTINF:-1 ,Extreme Sports
+http://nasaiptv.com:8080/osn89089/678389tra/214824
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://nasaiptv.com:8080/osn89089/678389tra/214822
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://nasaiptv.com:8080/osn89089/678389tra/214821
+#EXTINF:-1 ,Polsat Sport Premium PPV 3
+http://nasaiptv.com:8080/osn89089/678389tra/214820
+#EXTINF:-1 ,Polsat Sport Premium PPV 4
+http://nasaiptv.com:8080/osn89089/678389tra/214819
+#EXTINF:-1 ,Polsat Sport Premium PPV 5
+http://nasaiptv.com:8080/osn89089/678389tra/214818
+#EXTINF:-1 ,Polsat Sport Premium PPV 6
+http://nasaiptv.com:8080/osn89089/678389tra/214817
+#EXTINF:-1 ,Fightbox
+http://nasaiptv.com:8080/osn89089/678389tra/214816
+#EXTINF:-1 ,Polsat Sport Fight
+http://nasaiptv.com:8080/osn89089/678389tra/214814
+#EXTINF:-1 ,Golf Channel
+http://nasaiptv.com:8080/osn89089/678389tra/214812
+#EXTINF:-1 ,KSW PPV  [ Match Time ]
+http://nasaiptv.com:8080/osn89089/678389tra/214811
+#EXTINF:-1 ,Red Carpet TV
+http://nasaiptv.com:8080/osn89089/678389tra/214810
+#EXTINF:-1 ,Puls 2
+http://nasaiptv.com:8080/osn89089/678389tra/214809
+#EXTINF:-1 ,MTV Live
+http://nasaiptv.com:8080/osn89089/678389tra/214806
+#EXTINF:-1 ,MTV Music 90s
+http://nasaiptv.com:8080/osn89089/678389tra/214805
+#EXTINF:-1 ,MTV Polska
+http://nasaiptv.com:8080/osn89089/678389tra/214804
+#EXTINF:-1 ,MTV Music 00s
+http://nasaiptv.com:8080/osn89089/678389tra/214802
+#EXTINF:-1 ,TVP Rozrywka
+http://nasaiptv.com:8080/osn89089/678389tra/214801
+#EXTINF:-1 ,Kino Polska Muzyka
+http://nasaiptv.com:8080/osn89089/678389tra/214800
+#EXTINF:-1 ,Ale kino+
+http://nasaiptv.com:8080/osn89089/678389tra/214799
+#EXTINF:-1 ,TVP ABC
+http://nasaiptv.com:8080/osn89089/678389tra/214798
+#EXTINF:-1 ,Polsat Cafe
+http://nasaiptv.com:8080/osn89089/678389tra/214797
+#EXTINF:-1 ,Polsat Play
+http://nasaiptv.com:8080/osn89089/678389tra/214796
+#EXTINF:-1 ,Polo TV
+http://nasaiptv.com:8080/osn89089/678389tra/214794
+#EXTINF:-1 ,Metro
+http://nasaiptv.com:8080/osn89089/678389tra/214793
+#EXTINF:-1 ,Zoom TV
+http://nasaiptv.com:8080/osn89089/678389tra/214792
+#EXTINF:-1 ,NOVELA TV
+http://nasaiptv.com:8080/osn89089/678389tra/214791
+#EXTINF:-1 ,Sundance
+http://nasaiptv.com:8080/osn89089/678389tra/214790
+#EXTINF:-1 ,TVN Style
+http://nasaiptv.com:8080/osn89089/678389tra/214789
+#EXTINF:-1 ,HGTV
+http://nasaiptv.com:8080/osn89089/678389tra/214787
+#EXTINF:-1 ,Nowa TV
+http://nasaiptv.com:8080/osn89089/678389tra/214786
+#EXTINF:-1 ,CBS Reality
+http://nasaiptv.com:8080/osn89089/678389tra/214784
+#EXTINF:-1 ,Epic Drama
+http://nasaiptv.com:8080/osn89089/678389tra/214783
+#EXTINF:-1 ,Warner TV
+http://nasaiptv.com:8080/osn89089/678389tra/214782
+#EXTINF:-1 ,Polsat Film
+http://nasaiptv.com:8080/osn89089/678389tra/214781
+#EXTINF:-1 ,Kino TV
+http://nasaiptv.com:8080/osn89089/678389tra/214780
+#EXTINF:-1 ,Stopklatka
+http://nasaiptv.com:8080/osn89089/678389tra/214779
+#EXTINF:-1 ,Stars TV
+http://nasaiptv.com:8080/osn89089/678389tra/214778
+#EXTINF:-1 ,4Fun TV
+http://nasaiptv.com:8080/osn89089/678389tra/214777
+#EXTINF:-1 ,Polsat Music
+http://nasaiptv.com:8080/osn89089/678389tra/214776
+#EXTINF:-1 ,VOX Music TV
+http://nasaiptv.com:8080/osn89089/678389tra/214775
+#EXTINF:-1 ,Eska TV
+http://nasaiptv.com:8080/osn89089/678389tra/214774
+#EXTINF:-1 ,Eska TV Extra
+http://nasaiptv.com:8080/osn89089/678389tra/214772

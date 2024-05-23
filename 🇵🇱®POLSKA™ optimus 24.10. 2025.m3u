@@ -1,0 +1,431 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvp1logo2.png",TVP 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519732&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvp2logo2.png",TVP 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519734&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvp3poznanlogo2.png",TVP 3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519736&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/rebuplica.png",TV REPUBLIKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519763&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvpserialelogo2.png",TVP SERIALE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=623223&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvppolonialogo2.png",TVP POLONIA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651991&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat_hd.jpg",POLSAT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519740&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat2logo2.png",POLSAT 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519741&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat.film.png",POLSAT FILM
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=622905&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/superpolsatlogo2.png",SUPER POLSAT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519743&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatcafelogo2.png",POLSAT CAFE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519791&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsatplaylogo2.png",POLSAT PLAY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519794&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tv4-new.png",TV 4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519737&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tv6logo2.png",TV 6
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519738&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvn2802.png",TVN
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519745&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvn7logo2.png",TVN 7
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519746&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvnfabulalogo2.png",TVN FABULA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519753&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvnstylelogo2.png",TVN STYLE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519752&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvnturbologo2.png",TVN TURBO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519749&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/ttvlogo2.png",TTV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519761&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvpulslogo2.png",PULS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519756&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvpuls2logo2.png",PULS 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519755&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tele5_pl.jpg",TELE 5
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653049&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/pl-1.png",POLONIA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653050&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tbn%2Bpols.png",TBN POLSKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653051&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvs_ve.jpg",TVS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653052&extension=m3u8
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/studiomedd.png",STUDIOMED TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519798&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_Canal%2B_4K_U.png",CANAL+ 4K ULTRA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=629068&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Canal%2Bpremium.png",CANAL+ PREMIUM
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519772&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/Canal+1.png",CANAL+ 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=640602&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canalfilmlogo2.png",CANAL+ FILM
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520069&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canalfamilylogo2.png",CANAL+ FAMILY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520068&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/Canal++Seriale.png",CANAL+ SERIALE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519771&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/Canal++Now.png",CANAL+ NOW
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519770&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/hbologo2.png",HBO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520058&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/hbo2logo2.png",HBO 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520059&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/HBO%2B3.png",HBO 3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520060&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/cinemaxlogo.png",CINEMAX
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520067&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/cinemax2logo.png",CINEMAX 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520066&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Warner%2BTV.png",WARNER TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=728504&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/filmboxpremiumlogo2.png",FILMBOX PREMIUM
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520065&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/filmboxactionlogo2.png",FILMBOX ACTION
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520061&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/filmboxfamilylogo.png",FILMBOX FAMILY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520064&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/filmboxextralogo.png",FILMBOX EXTRA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520063&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/filmboxarthouselogo.png",FILMBOX ARTHOUSE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520062&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/alekinoplushdlogo.png",ALE KINO+
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520046&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/kinotvlogo2.png",KINO TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520056&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/kinopolskalogo.png",KINO POLSKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520057&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Paramount%2BChannel.png",PARAMOUNT CHANNEL
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652942&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/stopklatkatvlogo.png",STOPKLATKA TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519797&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/VOD%2B202.png",VOD 202
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=728499&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/VOD%2B203.png",VOD 203
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=728500&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/VOD%2B204.png",VOD 204
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=728501&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/VOD+205.png",VOD 205
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=629114&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/VOD+206.png",VOD 206
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=629115&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/VOD+207.png",VOD 207
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=629116&extension=m3u8
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/VOD+208.png",VOD 208
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=629117&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/dizi.png",Dizi
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=701273&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat.seriale.png",POLSAT SERIALE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651992&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat.rodrizana.png",POLSAT RODZINA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519730&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatdokulogo2.png",POLSAT DOKU
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520168&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/axnhd.png",AXN
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520071&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/axnspinhd.png",AXN SPIN
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520072&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/axnwhitelogo2.png",AXN WHITE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520073&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/axnblacklogo2.png",AXN BLACK
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520070&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/foxlogo2.png",FOX
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653033&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/foxcomedyhd.png",FOX COMEDY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520054&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/scifiuniversallogo2.png",SCIFI UNIVERSAL
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520049&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/13ulikalogo2.png",13 ULICA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520050&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tntlogo2.png",TNT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652947&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/amchd.png",AMC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520051&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/metrologo.png",METRO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520053&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/epicdramalogo2.png",EPIC DRAMA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520074&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/romancetvhd.png",ROMANCE TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519759&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/NOVELA%2BTV.png",NOVELA TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652943&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Novelas%2B.png",NOVELAS+
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652944&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/NOWA%2BTV.png",NOWA TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652945&extension=m3u8
+#EXTINF:-1 group-title="Seriale" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvp-pol.png",TVP POLONIA 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651990&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvp-kultura-.png",TVP KULTURA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519764&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvp.doku.png",TVP DOKUMENT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651989&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvphistorialogo2.png",TVP HISTORIA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520169&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/bbcearthlogo2.png",BBC EARTH
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520164&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/home.tv.png",HOME TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653048&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/discoverylogo2.png",DISCOVERY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520160&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/discoverylifelogo2.png",DISCOVERY LIFE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519785&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/discoveryhistorialogo2.png",DISCOVERY HISTORIA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520161&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/science-poland.png",SCIENCE POLAND
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652996&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/natgeologo2.png",NATIONAL GEOGRAPHIC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520158&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/natgeowildlogo2.png",NAT GEO WILD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520159&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/natgeopeoplelogo2.png",NAT GEO PEOPLE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520157&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/animalplanetlogo2.png",ANIMAL PLANET
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520154&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/crimeInvest.png",CRIME & INVESTIGATION
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519790&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/adventurelogo2.png",ADVENTURE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653004&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canal.dokument.png",CANAL+ DOKUMENT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520173&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/domoo.png",CANAL+ DOMO+
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519777&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/fokustvlogo2.png",FOKUS TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519781&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/travellogo2.png",TRAVEL CHANNEL
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520172&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/historyy.png",HISTORY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520156&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/history22.png",HISTORY 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520155&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/id.png",ID
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519783&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/planetelogo2.png",PLANETE+
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520153&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatviasatexplorelogo3.png",POLSAT VIASAT EXPLORE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653001&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatviasathistorylogo2.png",POLSAT VIASAT HISTORY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520166&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatviasatnaturelogo2.png",POLSAT VIASAT NATURE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520167&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/water.png",WATER PLANET
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653003&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/discoverysciencelogo2.png",DISCOVERY SCIENCE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520163&extension=m3u8
+#EXTINF:-1 group-title="Przyrodnicze / Naukowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/crimeinvestigationpolsatlogo2.png",CI POLSAT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519775&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvprozrywkalogo2.png",TVP ROZRYWKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519765&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat.comedy.extra.png",POLSAT COMEDY CENTRAL EXTRA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651994&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/BBC%2BBrit.png",BBC BRIT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653016&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/bbcfirstlogo.png",BBC FIRST
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520165&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/BBC%2BLifestyle.png",BBC LIFESTYLE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653026&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/cbseuropalogo2.png",CBS EUROPA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519773&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/cbsrealitylogo2.png",CBS REALITY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519774&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Comedy%2BCentral.png",COMEDY CENTRAL
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520047&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/comedycentralpolandlogo.png",COMEDY CENTRAL POLAND
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520048&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/comedy-extra.png",COMEDY CENTRAL EXTRA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4777&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/WP.png",WP
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652998&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/red-carpet.png",RED CARPET TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652997&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/zoomtvlogo.png",ZOOM TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519805&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/activefamilylogo.png",ACTIVE FAMILY
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520045&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatgameslogo.png",POLSAT GAMES
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519792&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/TVC.png",TVC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=652999&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/turboxtrapoland.png",Turbo Xtra Poland
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=728503&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Antena.png",ANTENA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653000&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/dtxlogo2-removebg-preview.png",DTX
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520175&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/e%21logo2.png",E! ENTERTAINMENT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520052&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tlchdlogo.png",TLC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520151&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/hgtvlogo2.png",HGTV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519788&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/sundance.png",SUNDANCE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519799&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/foodnetworklogo2.png",FOOD NETWORK
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520174&extension=m3u8
+#EXTINF:-1 group-title="Rozrywka" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/kuchnialogo2.png",KUCHNIA+
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520170&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/TVP+Sporta.png",TVP SPORT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520176&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nsport%2B1.png",NSPORT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520177&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canal%2Bsport.png",CANAL+ SPORT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520178&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canalsport2logo2.png",CANAL+ SPORT 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520182&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canal%2Bsport3.png",CANAL+ SPORT 3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520183&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canal%2Bsport4.png",CANAL+ SPORT 4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520184&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/canalsport5%2B.png",CANAL+ SPORT 5
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653035&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Eleven%2BSports%2B1.png",ELEVEN SPORTS 1 4K
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653043&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/elevensports1logo2.png",ELEVEN SPORTS 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520186&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/elevensports2logo2.png",ELEVEN SPORTS 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520187&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/elevensports3logo3.png",ELEVEN SPORTS 3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520188&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/elevensports4logo2.png",ELEVEN SPORTS 4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520189&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatsportlogo2.png",POLSAT SPORT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520181&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatsportextralogo2.png",POLSAT SPORT EXTRA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520180&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatsportfightlogo2.png",POLSAT SPORT FIGHT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520197&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatsportnewslogo2.png",POLSAT SPORT NEWS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520200&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsat%2BSport%2BPremium%2B1.png",POLSAT SPORT PREMIUM 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520201&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsat%2BSport%2BPremium%2B2.png",POLSAT SPORT PREMIUM 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520202&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsat%2BSport%2BPremium%2B3.png",POLSAT SPORT PREMIUM 3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520204&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsat%2BSport%2BPremium%2B4.png",POLSAT SPORT PREMIUM 4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520205&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsat%2BSport%2BPremium%2B5.png",POLSAT SPORT PREMIUM 5
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520206&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Polsat%2BSport%2BPremium%2B6.png",POLSAT SPORT PREMIUM 6
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520207&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/eurosport-1.png",EUROSPORT 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520190&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/eurosport-2.png",EUROSPORT 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520191&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/extremee-sport.png",EXTREME SPORTS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520192&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Sportklub.png",SPORTKLUB
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520203&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/fightboxlogo2.png",FIGHTBOX
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520194&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/fightclub.png",FIGHTKLUB
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520195&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Motowizja.png",MOTOWIZJA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519786&extension=m3u8
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/golfchannellogo2.png",GOLF CHANNEL
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520199&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatnewslogo2.png",POLSAT NEWS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519727&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsat-news-2.png",POLSAT NEWS 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519728&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/WYDARZENIA%2024.png",WYDARZENIA 24
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519800&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvn24logo2.png",TVN 24
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519747&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/TVN%2B24%2BBiS.png",TVN 24 BIS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651995&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/biznes24.png",BIZNES24
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=651996&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvpinfologo2.png",TVP INFO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519729&extension=m3u8
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/wpolsche.png",WPOLSCE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519804&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/BBC%2BCBeebies.png",BBC CBEEBIES
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=495857&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="https://onecentcdn.com/newpicon/poland_logo/davincilearninglogo2.png",DA VINCI LEARNING
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520171&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/tvpabclogo2.png",TVP ABC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=5020&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/BabyTV.png",BABY TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=520246&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="https://onecentcdn.com/newpicon/poland_logo/miniminilogo2.png",MINIMINI
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4990&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/cartoonito.png",CARTOONITO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4948&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/cartoonnetworklogo2.png",CARTOON NETWORK
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4771&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/disneychannellogo2.png",DISNEY CHANNEL
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4786&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/disneyxdlogo2.png",DISNEY XD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4788&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/disneyjuniorlogo2.png",DISNEY JUNIOR
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4787&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nickelodeonlogo2.png",NICKELODEON
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4838&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nicktoons-new.png",NICKTOONS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=495877&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nickjrlogo2.png",NICK JR POLSKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4837&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/teen-nick.png",TEENNICK
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653053&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatjimjamlogo2.png",POLSAT JIMJAM
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4853&extension=m3u8
+#EXTINF:-1 group-title="Dziecięce" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/teletoonlogo2.png",TELETOON+
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=5009&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ ROMANTIC LOUNGE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645621&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ LATINO HITS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645620&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ CLASSIC ROCK
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645622&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ CLASSIC ROCK 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645623&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ K-POP
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645624&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ DEEP HOUSE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645625&extension=m3u8
+#EXTINF:-1 ,#HFAE ⋅ DEEP HOUSE II
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=645626&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/mtvmusiclogo2.png",MTV POLSKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4832&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/mtvlivelogo2.png",MTV LIVE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4988&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/MTV%2B00%27s.png",MTV 00'S
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653081&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/MTV%2B90S.png",MTV 90'S
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653082&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/4fun%2BTV.png",4FUN.TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=521030&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/4FUN%2BDANCE.png",4FUN DANCE
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=521033&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/4fungoldhitslogo2.png",4FUN GOLD HITS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=521031&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/4FUN%2BKIDS.png",4FUN KIDS
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653083&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/ESKA.png",ESKA TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519778&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/eskarocklogo2.png",ESKA ROCK TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4797&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/eskalogo2.png",ESKA TV EXTRA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519779&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/discopolomusiclogo2.png",DISCO POLO MUSIC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4962&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polsatmusiclogo2.png",POLSAT MUSIC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4854&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/Kino%2BPolska%2BMuzyka.png",KINO POLSKA MUZYKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653084&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/musicbox.png",MUSIC BOX POLSKA
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653085&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nickmusic.png",NICK MUSIC
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653086&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/voxmusiclogo2.png",VOX MUSIC TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=4932&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nuta.png",NUTA TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653087&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/nuta-gold.png",NUTA GOLD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=693101&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/polotvlogo2.png",POLO TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519789&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/POWER%2BTV.png",POWER TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=653088&extension=m3u8
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://onecentcdn.com/newpicon/poland_logo/starslogo2.png",STARS TV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BA:B7&stream=519796&extension=m3u8
