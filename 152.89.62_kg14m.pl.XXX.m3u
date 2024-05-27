@@ -1,0 +1,791 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="PL005:ATM Rozrywka TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL005ATMROZRYWKATV.png" group-title="Poland",PL005:ATM Rozrywka TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33527
+#EXTINF:-1 tvg-id="cbs.europa.pl" tvg-name="PL023:CBS Europa HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL023CBSEUROPAHD.png" group-title="Poland",PL023:CBS Europa HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33509
+#EXTINF:-1 tvg-id="cbs.reality.pl" tvg-name="PL024:CBS Reality HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL024CBSREALITYHD.png" group-title="Poland",PL024:CBS Reality HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33508
+#EXTINF:-1 tvg-id="comedy.central.pl" tvg-name="PL027:Comedy Central FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL027ComedyCentralFHD.png" group-title="Poland",PL027:Comedy Central FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33505
+#EXTINF:-1 tvg-id="e.entertainment.pl" tvg-name="PL039:E! FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL039E!FHD.png" group-title="Poland",PL039:E! FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33493
+#EXTINF:-1 tvg-id="polsat.sport.premium.4.pl" tvg-name="PL047:POLSAT SPORT PREMIUM 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL047Motowizja.png" group-title="Poland",PL047:POLSAT SPORT PREMIUM 4
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33485
+#EXTINF:-1 tvg-id="fokus.pl" tvg-name="PL056:FOKUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL056FOKUSTV.png" group-title="Poland",PL056:FOKUS TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33476
+#EXTINF:-1 tvg-id="polsat.cafe.pl" tvg-name="PL059:Polsat Cafe" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL059PolsatCafe.png" group-title="Poland",PL059:Polsat Cafe
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33473
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="PL065:HGTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL065HGTVFHD.png" group-title="Poland",PL065:HGTV FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33467
+#EXTINF:-1 tvg-id="romance.pl" tvg-name="PL067:TV 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL067RomanceTV.png" group-title="Poland",PL067:TV 6
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33465
+#EXTINF:-1 tvg-id="kino.pl" tvg-name="PL068:KINO TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL068KINOTVFHD.png" group-title="Poland",PL068:KINO TV FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33464
+#EXTINF:-1 tvg-id="canal.plus.kuchnia.pl" tvg-name="PL069:KUCHNIA+  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL069KuchniaHD.png" group-title="Poland",PL069:KUCHNIA+  HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33463
+#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="PL070:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL070LifetimeHD.png" group-title="Poland",PL070:Lifetime HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33462
+#EXTINF:-1 tvg-id="tvs.pl" tvg-name="PL077:TVS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL077TVS.png" group-title="Poland",PL077:TVS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33455
+#EXTINF:-1 tvg-id="nowa.pl" tvg-name="PL084:NOWA TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL084NOWATVHD.png" group-title="Poland",PL084:NOWA TV HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33448
+#EXTINF:-1 tvg-id="polsat.2.pl" tvg-name="PL089:POLSAT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL089POLSAT2FHD.png" group-title="Poland",PL089:POLSAT 2 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33443
+#EXTINF:-1 tvg-id="polsat.cafe.pl" tvg-name="PL090:Polsat Film" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL090POLSATCAFE.png" group-title="Poland",PL090:Polsat Film
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33442
+#EXTINF:-1 tvg-id="polsat.doku.pl" tvg-name="PL091:Polsat Doku HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL091PolsatDokuHD.png" group-title="Poland",PL091:Polsat Doku HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33441
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL092:Polsat HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL092PolsatFHD.png" group-title="Poland",PL092:Polsat HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33440
+#EXTINF:-1 tvg-id="polsat.play.pl" tvg-name="PL097:Polsat Play FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL097PolsatPlayFHD.png" group-title="Poland",PL097:Polsat Play FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33435
+#EXTINF:-1 tvg-id="super.polsat.pl" tvg-name="PL115:Super Polsat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL115SUPERPOLSAT.png" group-title="Poland",PL115:Super Polsat
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33417
+#EXTINF:-1 tvg-id="polsat.games.pl" tvg-name="PL120:Polsat Games" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL120PolsatGames.png" group-title="Poland",PL120:Polsat Games
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33412
+#EXTINF:-1 tvg-id="ttv.pl" tvg-name="PL121:TTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL121TTVFHD.png" group-title="Poland",PL121:TTV FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33411
+#EXTINF:-1 tvg-id="e.entertainment.pl" tvg-name="PL122:E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL122E!Entertainment.png" group-title="Poland",PL122:E! Entertainment
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33410
+#EXTINF:-1 tvg-id="tv.6.pl" tvg-name="PL123:TV6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL123TV6.png" group-title="Poland",PL123:TV6
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33409
+#EXTINF:-1 tvg-id="tvn.7.pl" tvg-name="PL126:TVN 7 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL126TVN7FHD.png" group-title="Poland",PL126:TVN 7 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33406
+#EXTINF:-1 tvg-id="tvn.fabula.pl" tvg-name="PL128:TVN Fabula FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL128TVNFabulaFHD.png" group-title="Poland",PL128:TVN Fabula FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33404
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL129:TVN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL129TVNFHD.png" group-title="Poland",PL129:TVN FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33403
+#EXTINF:-1 tvg-id="tvn.style.pl" tvg-name="PL130:TVN Style FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL130TVNStyleFHD.png" group-title="Poland",PL130:TVN Style FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33402
+#EXTINF:-1 tvg-id="tvp.1.pl" tvg-name="PL132:TVP 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL132TVP1FHD.png" group-title="Poland",PL132:TVP 1 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33400
+#EXTINF:-1 tvg-id="tvp.2.pl" tvg-name="PL133:TVP 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL133TVP2FHD.png" group-title="Poland",PL133:TVP 2 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33399
+#EXTINF:-1 tvg-id="tvp.3.pl" tvg-name="PL134:TVP 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL134TVP3HD.png" group-title="Poland",PL134:TVP 3 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33398
+#EXTINF:-1 tvg-id="tvp.kultura.pl" tvg-name="PL138:TVP Kultura HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL138TVPKULTURAHD.png" group-title="Poland",PL138:TVP Kultura HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33394
+#EXTINF:-1 tvg-id="tvp.polonia.pl" tvg-name="PL139:TVP Polonia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL139TVPPoloniaHD.png" group-title="Poland",PL139:TVP Polonia HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33393
+#EXTINF:-1 tvg-id="tvp.rozrywka.pl" tvg-name="PL140:TVP Rozrywka" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL140TVPROZRYWKA.png" group-title="Poland",PL140:TVP Rozrywka
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33392
+#EXTINF:-1 tvg-id="tvp.seriale.pl" tvg-name="PL141:TVP SERIALE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL141TVPSERIALE.png" group-title="Poland",PL141:TVP SERIALE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33391
+#EXTINF:-1 tvg-id="bbc.brit.pl" tvg-name="PL152:BBC Brit HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL152BBCBRIT.png" group-title="Poland",PL152:BBC Brit HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33380
+#EXTINF:-1 tvg-id="comedy.central.family.pl" tvg-name="PL164:Comedy Central Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL164ComedyCentralFamily.png" group-title="Poland",PL164:Comedy Central Family
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33368
+#EXTINF:-1 tvg-id="kino.polska.pl" tvg-name="PL183:Kino Polska" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL183KINOPOLSKA.png" group-title="Poland",PL183:Kino Polska
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33349
+#EXTINF:-1 tvg-id="kino.pl" tvg-name="PL185:SciFi Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL185KinoTv.png" group-title="Poland",PL185:SciFi Universal
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33347
+#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="PL186:TVP 3 Wrocław" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL186" group-title="Poland",PL186:TVP 3 Wrocław
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33346
+#EXTINF:-1 tvg-id="metro.pl" tvg-name="PL187:Metro" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL187Metro.png" group-title="Poland",PL187:Metro
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33345
+#EXTINF:-1 tvg-id="tvt.pl" tvg-name="PL196:KuchniaPlus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL196PolsatDokuFHD.png" group-title="Poland",PL196:KuchniaPlus
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33336
+#EXTINF:-1 tvg-id="polsat.rodzina.pl" tvg-name="PL198:Polsat Romans HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL198POLSATROMANSHD.png" group-title="Poland",PL198:Polsat Romans HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33334
+#EXTINF:-1 tvg-id="tv.puls.pl" tvg-name="PL124:TV Puls FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL124TVPulsFHD.png" group-title="Poland",PL124:TV Puls FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33408
+#EXTINF:-1 tvg-id="puls.2.pl" tvg-name="PL109:PULS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL109PULS2.png" group-title="Poland",PL109:PULS 2
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33423
+#EXTINF:-1 tvg-id="kino.polska.muzyka.pl" tvg-name="PL184:TV 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL184TV4.png" group-title="Poland",PL184:TV 4
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33348
+#EXTINF:-1 tvg-id="ext" tvg-name="PL:------|CINEMA|-------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL------|CINEMA|-------------------------------------.png" group-title="Poland",PL:------|CINEMA|-------------------------------------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/61060
+#EXTINF:-1 tvg-id="13.ulica.pl" tvg-name="PL001:13 Ulica FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL00113UlicaFHD.png" group-title="Poland",PL001:13 Ulica FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33531
+#EXTINF:-1 tvg-id="ale.kino.plus.pl" tvg-name="PL002:Ale Kino +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL002AleKinoFHD.png" group-title="Poland",PL002:Ale Kino +
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33530
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="PL104:Canal+ Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL104Canal+HD.png" group-title="Poland",PL104:Canal+ Discovery HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33428
+#EXTINF:-1 tvg-id="axn.black.pl" tvg-name="PL006:AXN Black HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL006AXNBlackHD.png" group-title="Poland",PL006:AXN Black HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33526
+#EXTINF:-1 tvg-id="axn.pl" tvg-name="PL007:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL007AXNHD.png" group-title="Poland",PL007:AXN HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33525
+#EXTINF:-1 tvg-id="axn.spin.pl" tvg-name="PL008:AXN Spin HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL008AXNSPINHD.png" group-title="Poland",PL008:AXN Spin HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33524
+#EXTINF:-1 tvg-id="axn.white.pl" tvg-name="PL009:AXN White HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL009AXNWhiteHD.png" group-title="Poland",PL009:AXN White HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33523
+#EXTINF:-1 tvg-id="canal.plus.family.pl" tvg-name="PL015:Canal FamilyFHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL015CANALFAMILYFHD.png" group-title="Poland",PL015:Canal FamilyFHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33517
+#EXTINF:-1 tvg-id="canal.plus.1.pl" tvg-name="PL016:CANAL+ 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL016CANALFHD.png" group-title="Poland",PL016:CANAL+ 1 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33516
+#EXTINF:-1 tvg-id="canal.plus.film.pl" tvg-name="PL017:Canal Film FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL017CANALFILMFHD.png" group-title="Poland",PL017:Canal Film FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33515
+#EXTINF:-1 tvg-id="canal.plus.seriale.pl" tvg-name="PL018:Canal  Seriale FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL018CanalSerialeFHD.png" group-title="Poland",PL018:Canal  Seriale FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33514
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL025:Cinemax 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL025CINEMAX2HD.png" group-title="Poland",PL025:Cinemax 2 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33507
+#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="PL026:Cinemax HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL026CINEMAXHD.png" group-title="Poland",PL026:Cinemax HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33506
+#EXTINF:-1 tvg-id="epic.drama.pl" tvg-name="PL040:Epic Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL040EpicDrama.png" group-title="Poland",PL040:Epic Drama
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33492
+#EXTINF:-1 tvg-id="filmbox.action.pl" tvg-name="PL051:Filmbox Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL051FILMBOXACTIONHD.png" group-title="Poland",PL051:Filmbox Action HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33481
+#EXTINF:-1 tvg-id="filmbox.arthouse.pl" tvg-name="PL052:Filmbox Arthouse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL052FilmboxArthouse.png" group-title="Poland",PL052:Filmbox Arthouse
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33480
+#EXTINF:-1 tvg-id="filmbox.extra.pl" tvg-name="PL053:Filmbox Extra FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL053FilmboxExtraFHD.png" group-title="Poland",PL053:Filmbox Extra FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33479
+#EXTINF:-1 tvg-id="filmbox.family.pl" tvg-name="PL054:Filmbox Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL054FILMBOXFAMILYFHD.png" group-title="Poland",PL054:Filmbox Family
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33478
+#EXTINF:-1 tvg-id="filmbox.premium.pl" tvg-name="PL055:Filmbox Premium HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL055FILMBOXPREMIUMHD.png" group-title="Poland",PL055:Filmbox Premium HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33477
+#EXTINF:-1 tvg-id="fox.comedy.pl" tvg-name="PL057:Fox Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL057FOXComedyFHD.png" group-title="Poland",PL057:Fox Comedy FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33475
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="PL058:FOX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL058FOXFHD.png" group-title="Poland",PL058:FOX FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33474
+#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="PL062:HBO 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL062HBO2FHD.png" group-title="Poland",PL062:HBO 2 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33470
+#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="PL063:HBO 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL063HBO3FHD.png" group-title="Poland",PL063:HBO 3 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33469
+#EXTINF:-1 tvg-id="hbo.pl" tvg-name="PL064:HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL064HBOHD.png" group-title="Poland",PL064:HBO HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33468
+#EXTINF:-1 tvg-id="sci.fi.pl" tvg-name="PL110:Sci-Fi HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL110Sci-FiHD.png" group-title="Poland",PL110:Sci-Fi HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33422
+#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="PL113:Stop klatka TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL113StopklatkaTV.png" group-title="Poland",PL113:Stop klatka TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33419
+#EXTINF:-1 tvg-id="tnt.pl" tvg-name="PL118:TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL118TNTFHD.png" group-title="Poland",PL118:TNT FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33414
+#EXTINF:-1 tvg-id="canal+.1.pl" tvg-name="PL143:Nicktoons" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL143Canal1.png" group-title="Poland",PL143:Nicktoons
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33389
+#EXTINF:-1 tvg-id="ale.kino+.pl" tvg-name="PL154:VOX MUSIC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL154VOXMUSICTV.png" group-title="Poland",PL154:VOX MUSIC TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33378
+#EXTINF:-1 tvg-id="amc.pl" tvg-name="PL155:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL155AMC.png" group-title="Poland",PL155:AMC
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33377
+#EXTINF:-1 tvg-id="atm.rozrywka.pl" tvg-name="PL156:Active Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL156ATMRozrywka.png" group-title="Poland",PL156:Active Family
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33376
+#EXTINF:-1 tvg-id="axn.spin.pl" tvg-name="PL157:WYDARZENIA 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL157AXNSPINHD.png" group-title="Poland",PL157:WYDARZENIA 24 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33375
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL163:Red Carpet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/" group-title="Poland",PL163:Red Carpet
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33369
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="PL179:FOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL179FOXHD.png" group-title="Poland",PL179:FOX HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33353
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="PL086:Paramount Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL086ParamountChannelFHD.png" group-title="Poland",PL086:Paramount Channel FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33446
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="PL193:Paramount Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL193ParamountChannelHD.png" group-title="Poland",PL193:Paramount Channel HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33339
+#EXTINF:-1 tvg-id="ext" tvg-name="PL:------|MUSIC|---------------------------------------" tvg-logo="" group-title="Poland",PL:------|MUSIC|---------------------------------------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/66166
+#EXTINF:-1 tvg-id="4fun.pl" tvg-name="PL003:4Fun TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL0034FunTV.png" group-title="Poland",PL003:4Fun TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33529
+#EXTINF:-1 tvg-id="stars.tv.pl" tvg-name="PL074:STARS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL074STARSTV.png" group-title="Poland",PL074:STARS TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33458
+#EXTINF:-1 tvg-id="vox.music.pl" tvg-name="PL082:TVP HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL082TVPHD.png" group-title="Poland",PL082:TVP HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33450
+#EXTINF:-1 tvg-id="polo.pl" tvg-name="PL088:Polo TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL088PoloTVHD.png" group-title="Poland",PL088:Polo TV HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33444
+#EXTINF:-1 tvg-id="polsat.music.pl" tvg-name="PL094:Polsat Music HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL094PolsatMusicHD.png" group-title="Poland",PL094:Polsat Music HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33438
+#EXTINF:-1 tvg-id="power.pl" tvg-name="PL108:POWER TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL108POWERTV.png" group-title="Poland",PL108:POWER TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33424
+#EXTINF:-1 tvg-id="4fun.dance.pl" tvg-name="PL150:4Fun Dance" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL1504FunDance.png" group-title="Poland",PL150:4Fun Dance
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33382
+#EXTINF:-1 tvg-id="4fun.gold.hits.pl" tvg-name="PL151:4Fun Gold Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL1514FunGoldHits.png" group-title="Poland",PL151:4Fun Gold Hits
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33381
+#EXTINF:-1 tvg-id="disco.polo.music.pl" tvg-name="PL166:TV Trwam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL166DiscoPoloMusic.png" group-title="Poland",PL166:TV Trwam
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33366
+#EXTINF:-1 tvg-id="eska.extra.pl" tvg-name="PL176:ESKA TV Extra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL176ESKATVExtra.png" group-title="Poland",PL176:ESKA TV Extra
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33356
+#EXTINF:-1 tvg-id="ext" tvg-name="PL182:BBC FIRST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL182BBCFIRST.png" group-title="Poland",PL182:BBC FIRST
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33350
+#EXTINF:-1 tvg-id="mtv.dance.pl" tvg-name="PL189:MTV Dance HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL189MTVDanceHD.png" group-title="Poland",PL189:MTV Dance HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33343
+#EXTINF:-1 tvg-id="mtv.polska.pl" tvg-name="PL190:MTV Polska HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL190MTVPolskaHD.png" group-title="Poland",PL190:MTV Polska HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33342
+#EXTINF:-1 tvg-id="power.pl" tvg-name="PL203:Power TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL203PowerTV.png" group-title="Poland",PL203:Power TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33329
+#EXTINF:-1 tvg-id="disco.polo.music.pl" tvg-name="PL029:Disco Polo Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL029DISCOPOLOMUSIC.png" group-title="Poland",PL029:Disco Polo Music
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33503
+#EXTINF:-1 tvg-id="kino.polska.muzyka.pl" tvg-name="PL078:Kino Polska Muzyka" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL078MUZYKAPOLSKA.png" group-title="Poland",PL078:Kino Polska Muzyka
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33454
+#EXTINF:-1 tvg-id="ext" tvg-name="PL:------|SPORT|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL------|SPORT|--------------------------------------.png" group-title="Poland",PL:------|SPORT|--------------------------------------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/61058
+#EXTINF:-1 tvg-id="canal.plus.sport.pl" tvg-name="PL010:CANAL+ SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL010CANAL+SPORTFHD.png" group-title="Poland",PL010:CANAL+ SPORT FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33522
+#EXTINF:-1 tvg-id="canal.plus.sport.2.pl" tvg-name="PL011:CANAL+ SPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL011CANAL+SPORT2FHD.png" group-title="Poland",PL011:CANAL+ SPORT 2 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33521
+#EXTINF:-1 tvg-id="canal.plus.sport.3.pl" tvg-name="PL012:CANAL+ SPORT 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL012CANAL+SPORT3FHD.png" group-title="Poland",PL012:CANAL+ SPORT 3 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33520
+#EXTINF:-1 tvg-id="canal.plus.sport.4.pl" tvg-name="PL013:CANAL+ SPORT 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL013CANAL+SPORT4FHD.png" group-title="Poland",PL013:CANAL+ SPORT 4 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33519
+#EXTINF:-1 tvg-id="eleven.sports.2.pl" tvg-name="PL041:CANAL+ KUCHINA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/" group-title="Poland",PL041:CANAL+ KUCHINA
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33491
+#EXTINF:-1 tvg-id="eska.pl" tvg-name="PL042:Eska TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/" group-title="Poland",PL042:Eska TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33490
+#EXTINF:-1 tvg-id="eska.rock.pl" tvg-name="PL043:Eska ROCK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/" group-title="Poland",PL043:Eska ROCK TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33489
+#EXTINF:-1 tvg-id="polsat.sport.premium.1.pl" tvg-name="PL044:Polsat Sport Premium 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL044PolsatSportPremium1.png" group-title="Poland",PL044:Polsat Sport Premium 1 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33488
+#EXTINF:-1 tvg-id="polsat.sport.premium.2.pl" tvg-name="PL045:Polsat Sport Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL045PolsatSportPremium2.png" group-title="Poland",PL045:Polsat Sport Premium 2 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33487
+#EXTINF:-1 tvg-id="polsat.sport.premium.3.pl" tvg-name="PL046:Polsat Sport Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL046PolsatSportPremium3.png" group-title="Poland",PL046:Polsat Sport Premium 3
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33486
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL098:MOTOWIZJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL098POLSATROMANS.png" group-title="Poland",PL098:MOTOWIZJA
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33434
+#EXTINF:-1 tvg-id="polsat.sport.premium.5.pl" tvg-name="PL048:Polsat Sport Premium 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL048PolsatSportPremium5.png" group-title="Poland",PL048:Polsat Sport Premium 5
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33484
+#EXTINF:-1 tvg-id="polsat.sport.premium.6.pl" tvg-name="PL049:Polsat Sport Premium 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL049PolsatSportPremium6.png" group-title="Poland",PL049:Polsat Sport Premium 6
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33483
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL050:Fightbox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL050FightboxFHD.png" group-title="Poland",PL050:Fightbox FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33482
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL073:Sundance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL073MOTORWIZJA.png" group-title="Poland",PL073:Sundance TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33459
+#EXTINF:-1 tvg-id="red.carpet.pl" tvg-name="PL075:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL075EUROSPORT1.png" group-title="Poland",PL075:EUROSPORT 1 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33457
+#EXTINF:-1 tvg-id="canal+.sport.2.pl" tvg-name="PL076:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL076EUROSPORT2.png" group-title="Poland",PL076:EUROSPORT 2 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33456
+#EXTINF:-1 tvg-id="nsport.plus.pl" tvg-name="PL085:NSport Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL085NSportPlusHD.png" group-title="Poland",PL085:NSport Plus HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33447
+#EXTINF:-1 tvg-id="polsat.sport.extra.pl" tvg-name="PL099:Polsat Sport Extra FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL099PolsatSportExtraFHD.png" group-title="Poland",PL099:Polsat Sport Extra FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33433
+#EXTINF:-1 tvg-id="polsat.sport.pl" tvg-name="PL101:Polsat Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL101PolsatSportHD.png" group-title="Poland",PL101:Polsat Sport HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33431
+#EXTINF:-1 tvg-id="canal.plus.premium.pl" tvg-name="PL103:CANAL+ Premium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/" group-title="Poland",PL103:CANAL+ Premium
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33429
+#EXTINF:-1 tvg-id="tvp.sport.pl" tvg-name="PL142:TVP Sport FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL142TVPSportFHD.png" group-title="Poland",PL142:TVP Sport FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33390
+#EXTINF:-1 tvg-id="eleven.sports.1.pl" tvg-name="PL172:Eleven Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL172ElevenSports1HD.png" group-title="Poland",PL172:Eleven Sports 1 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33360
+#EXTINF:-1 tvg-id="eleven.sports.2.pl" tvg-name="PL173:Eleven Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL173ElevenSports2FHD.png" group-title="Poland",PL173:Eleven Sports 2 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33359
+#EXTINF:-1 tvg-id="eleven.sports.3.pl" tvg-name="PL174:Eleven Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL174ElevenSports3FHD.png" group-title="Poland",PL174:Eleven Sports 3 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33358
+#EXTINF:-1 tvg-id="eleven.sports.4.pl" tvg-name="PL175:Eleven Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL175ElevenSports4HD.png" group-title="Poland",PL175:Eleven Sports 4 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33357
+#EXTINF:-1 tvg-id="golf.pl" tvg-name="PL180:Golf Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL180GolfChannelHD.png" group-title="Poland",PL180:Golf Channel HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33352
+#EXTINF:-1 tvg-id="polsat.sport.fight.pl" tvg-name="PL199:Polsat Sport Fight HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL199PolsatSportFightHD.png" group-title="Poland",PL199:Polsat Sport Fight HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33333
+#EXTINF:-1 tvg-id="food.network.pl" tvg-name="PL158:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL158FoodNetworkHD.png" group-title="Poland",PL158:Food Network HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33374
+#EXTINF:-1 tvg-id="nowa.pl" tvg-name="PL192:KSW Fight  PPV (Live Matches  Only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL192NOWATV.png" group-title="Poland",PL192:KSW Fight  PPV (Live Matches  Only)
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33340
+#EXTINF:-1 tvg-id="nat.geo.people.pl" tvg-name="PL191:Nat Geo People HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL191NatGeoPeopleHD.png" group-title="Poland",PL191:Nat Geo People HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33341
+#EXTINF:-1 tvg-id="ext" tvg-name="PL:------|DOCUMENTARY|--------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL------|DOCUMENTARY|--------------------------------.png" group-title="Poland",PL:------|DOCUMENTARY|--------------------------------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/61062
+#EXTINF:-1 tvg-id="animal.planet.pl" tvg-name="PL004:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL004ANIMALPLANETHD.png" group-title="Poland",PL004:Animal Planet HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33528
+#EXTINF:-1 tvg-id="bbc.earth.pl" tvg-name="PL020:BBC Earth HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL020BBCEarthHD.png" group-title="Poland",PL020:BBC Earth HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33512
+#EXTINF:-1 tvg-id="discovery.historia.pl" tvg-name="PL031:Discovery Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL031DiscoveryHISTORIA.png" group-title="Poland",PL031:Discovery Historia
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33501
+#EXTINF:-1 tvg-id="discovery.life.pl" tvg-name="PL032:Discovery Life FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL032DiscoveryLifeFHD.png" group-title="Poland",PL032:Discovery Life FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33500
+#EXTINF:-1 tvg-id="discovery.science.pl" tvg-name="PL033:Discovery Science FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL033DiscoveryScienceFHD.png" group-title="Poland",PL033:Discovery Science FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33499
+#EXTINF:-1 tvg-id="tvn.turbo.pl" tvg-name="PL034:Discovery Turbo Xtra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL034DiscoveryTurboXtraHD.png" group-title="Poland",PL034:Discovery Turbo Xtra HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33498
+#EXTINF:-1 tvg-id="id.pl" tvg-name="PL060:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL060InvestigationDiscovery.png" group-title="Poland",PL060:Investigation Discovery HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33472
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="PL061:H2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL061H2HD.png" group-title="Poland",PL061:H2 HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33471
+#EXTINF:-1 tvg-id="history.pl" tvg-name="PL066:HISTORY CHANNEL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL066HISTORYCHANNELHD.png" group-title="Poland",PL066:HISTORY CHANNEL HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33466
+#EXTINF:-1 tvg-id="national.geographic.pl" tvg-name="PL079:NAT GEO FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL079NATGEOFHD.png" group-title="Poland",PL079:NAT GEO FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33453
+#EXTINF:-1 tvg-id="nat.geo.people.pl" tvg-name="PL080:Nat Geo People HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL080NATGEOPEOPLEHD.png" group-title="Poland",PL080:Nat Geo People HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33452
+#EXTINF:-1 tvg-id="national.geographic.wild.pl" tvg-name="PL081:NAT GEO Wild HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL081NATGEOWildHD.png" group-title="Poland",PL081:NAT GEO Wild HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33451
+#EXTINF:-1 tvg-id="planete+.pl" tvg-name="PL087:MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL087MTV.png" group-title="Poland",PL087:MTV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33445
+#EXTINF:-1 tvg-id="travel.pl" tvg-name="PL095:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL095TravelChannel.png" group-title="Poland",PL095:Travel Channel
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33437
+#EXTINF:-1 tvg-id="polsat.viasat.explore.pl" tvg-name="PL105:POLSAT Viasat Explore FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL105POLSATViasatExploreFHD.png" group-title="Poland",PL105:POLSAT Viasat Explore FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33427
+#EXTINF:-1 tvg-id="polsat.viasat.history.pl" tvg-name="PL106:Polsat Viasat History FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL106PolsatViasatHistoryFHD.png" group-title="Poland",PL106:Polsat Viasat History FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33426
+#EXTINF:-1 tvg-id="polsat.viasat.nature.pl" tvg-name="PL107:Polsat Viasat Nature HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL107PolsatViasatNatureHD.png" group-title="Poland",PL107:Polsat Viasat Nature HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33425
+#EXTINF:-1 tvg-id="tlc.pl" tvg-name="PL117:TLC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL117TLCFHD.png" group-title="Poland",PL117:TLC FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33415
+#EXTINF:-1 tvg-id="tvn.turbo.pl" tvg-name="PL131:TVN Turbo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL131TVNTurboFHD.png" group-title="Poland",PL131:TVN Turbo FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33401
+#EXTINF:-1 tvg-id="tvp.historia.pl" tvg-name="PL136:TVP Historiy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL136TVPHistoriyHD.png" group-title="Poland",PL136:TVP Historiy HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33396
+#EXTINF:-1 tvg-id="bbc.earth.pl" tvg-name="PL147:BBC Lifestyle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL147BBC.png" group-title="Poland",PL147:BBC Lifestyle
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33385
+#EXTINF:-1 tvg-id="zoom.pl" tvg-name="PL148:ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL148ZOOMTV.png" group-title="Poland",PL148:ZOOM TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33384
+#EXTINF:-1 tvg-id="adventure.pl" tvg-name="PL153:Adventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL153ADVENTUREHD.png" group-title="Poland",PL153:Adventure HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33379
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="PL167:Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL167DiscoveryChannel.png" group-title="Poland",PL167:Discovery Channel
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33365
+#EXTINF:-1 tvg-id="discovery.life.pl" tvg-name="PL168:Discovery Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL168DiscoveryLifeHD.png" group-title="Poland",PL168:Discovery Life HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33364
+#EXTINF:-1 tvg-id="dtx.pl" tvg-name="PL171:NUTA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL171DTX.png" group-title="Poland",PL171:NUTA TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33361
+#EXTINF:-1 tvg-id="fokus.pl" tvg-name="PL178:FOKUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL178FOKUSTV.png" group-title="Poland",PL178:FOKUS TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33354
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="PL181:Crime+ Investigation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/" group-title="Poland",PL181:Crime+ Investigation
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33351
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="PL194:Planete+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL194PlaneteHD.png" group-title="Poland",PL194:Planete+ HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33338
+#EXTINF:-1 tvg-id="polsat.viasat.explore.pl" tvg-name="PL200:Polsat Viasat Explore HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL200PolsatViasatExploreHD.png" group-title="Poland",PL200:Polsat Viasat Explore HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33332
+#EXTINF:-1 tvg-id="polsat.viasat.history.pl" tvg-name="PL201:Polsat Viasat History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL201PolsatViasatHistoryHD.png" group-title="Poland",PL201:Polsat Viasat History HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33331
+#EXTINF:-1 tvg-id="polsat.viasat.nature.pl" tvg-name="PL202:Polsat Viasat Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL202PolsatViasatNature.png" group-title="Poland",PL202:Polsat Viasat Nature
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33330
+#EXTINF:-1 tvg-id="ext" tvg-name="PL:------|KIDS|---------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL------|KIDS|---------------------------------------.png" group-title="Poland",PL:------|KIDS|---------------------------------------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/61059
+#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="PL014:Boomerang FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL014BoomerangHD.png" group-title="Poland",PL014:Boomerang FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33518
+#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="PL019:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL019Nickelodeon.png" group-title="Poland",PL019:Nickelodeon
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33513
+#EXTINF:-1 tvg-id="cartoon.network.pl" tvg-name="PL021:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL021CARTOONNETWORKHD.png" group-title="Poland",PL021:Cartoon Network HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33511
+#EXTINF:-1 tvg-id="da.vinci.pl" tvg-name="PL028:Da Vinci Learning" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL028DaVinciLearning.png" group-title="Poland",PL028:Da Vinci Learning
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33504
+#EXTINF:-1 tvg-id="disney.pl" tvg-name="PL035:Disney Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL035DisneyChannelFHD.png" group-title="Poland",PL035:Disney Channel FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33497
+#EXTINF:-1 tvg-id="da.vinci.pl" tvg-name="PL036:Da Vinci" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL036DaVinci.png" group-title="Poland",PL036:Da Vinci
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33496
+#EXTINF:-1 tvg-id="disney.xd.pl" tvg-name="PL037:Disney XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL037DisneyXD.png" group-title="Poland",PL037:Disney XD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33495
+#EXTINF:-1 tvg-id="domo.plus.pl" tvg-name="PL038:DOMO  FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL038DOMOFHD.png" group-title="Poland",PL038:DOMO  FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33494
+#EXTINF:-1 tvg-id="minimini.plus.pl" tvg-name="PL072:MiniMini HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL072MiniMiniHD.png" group-title="Poland",PL072:MiniMini HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33460
+#EXTINF:-1 tvg-id="polsat.jimjam.pl" tvg-name="PL093:Polsat Jim Jam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL093PolsatJimJam.png" group-title="Poland",PL093:Polsat Jim Jam
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33439
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="PL116:TeleToon+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL116TeletoonHD.png" group-title="Poland",PL116:TeleToon+
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33416
+#EXTINF:-1 tvg-id="tvp.abc.pl" tvg-name="PL135:TVP abc HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL135TVPabcHD.png" group-title="Poland",PL135:TVP abc HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33397
+#EXTINF:-1 tvg-id="baby.pl" tvg-name="PL145:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL145" group-title="Poland",PL145:Baby TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33387
+#EXTINF:-1 tvg-id="bbc.cbeebies.pl" tvg-name="PL146:BBC CBeebies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL146BBCCBeebies.png" group-title="Poland",PL146:BBC CBeebies
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33386
+#EXTINF:-1 tvg-id="cartoon.network.pl" tvg-name="PL159:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL159CartoonNetworkHD.png" group-title="Poland",PL159:Cartoon Network HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33373
+#EXTINF:-1 tvg-id="disney.junior.pl" tvg-name="PL169:Disney Junior" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL169DisneyJunior.png" group-title="Poland",PL169:Disney Junior
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33363
+#EXTINF:-1 tvg-id="nick.jr.pl" tvg-name="PL204:Nick JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL204Puls2.png" group-title="Poland",PL204:Nick JR
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33328
+#EXTINF:-1 tvg-id="ext" tvg-name="PL:------|NEWS|---------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL------|NEWS|---------------------------------------.png" group-title="Poland",PL:------|NEWS|---------------------------------------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/61061
+#EXTINF:-1 tvg-id="polsat.news.pl" tvg-name="PL096:Polsat News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL096PolsatNewsHD.png" group-title="Poland",PL096:Polsat News HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33436
+#EXTINF:-1 tvg-id="polsat.sport.news.pl" tvg-name="PL102:Polsat Sport News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL102PolsatSportNewsHD.png" group-title="Poland",PL102:Polsat Sport News HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33430
+#EXTINF:-1 tvg-id="tvn.24.biznes.i.swiat.pl" tvg-name="PL114:TVN 24 Bis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL114TVN24Bis.png" group-title="Poland",PL114:TVN 24 Bis
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33418
+#EXTINF:-1 tvg-id="tvn.24.pl" tvg-name="PL127:TVN 24 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL127TVN24FHD.png" group-title="Poland",PL127:TVN 24 FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33405
+#EXTINF:-1 tvg-id="tvp.info.pl" tvg-name="PL137:TVP Info FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL137TVPInfoFHD.png" group-title="Poland",PL137:TVP Info FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33395
+#EXTINF:-1 tvg-id="ext" tvg-name="25 Years of Innocence (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl8r7nIMrCzejB0OFAhyUIZmcvC.jpg" group-title="Poland",25 Years of Innocence (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75665.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="365 Days (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/9a3ab586c70a8135b050f63b61777900.jpg" group-title="Poland",365 Days (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75666.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="A Cat with a Dog (2018)" tvg-logo="http://mvu03.wanicelife.com:8880/images/4c891ceca68315c2b548276e022e545f.jpg" group-title="Poland",A Cat with a Dog (2018)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75667.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="All My Friends Are Dead (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/063d770be6f285bc7110a044862e6853.jpg" group-title="Poland",All My Friends Are Dead (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75668.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Bad Boy (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/743f905161012f1907fbe5179397e2e4.jpg" group-title="Poland",Bad Boy (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75669.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Birds Are Singing in Kigali (2017)" tvg-logo="http://mvu03.wanicelife.com:8880/images/4229cf11d170975d1413a56b0613b9c8.jpg" group-title="Poland",Birds Are Singing in Kigali (2017)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75670.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Clergy (2018)" tvg-logo="http://mvu03.wanicelife.com:8880/images/b2893772713f04a24586455900fa5073.jpg" group-title="Poland",Clergy (2018)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75671.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Cold.War.(2018)" tvg-logo="http://mvu03.wanicelife.com:8880/images/b2893772713f04a24586455900fa5073.jpg" group-title="Poland",Cold.War.(2018)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75672.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Corpus Christi (2019)" tvg-logo="http://mvu03.wanicelife.com:8880/images/05cda90add26919132255fb21223f7b9.jpg" group-title="Poland",Corpus Christi (2019)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75673.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dark, Almost Night (2019)" tvg-logo="http://mvu03.wanicelife.com:8880/images/30285bf4e2b7fa062b0b05b5ef5adfee.jpg" group-title="Poland",Almost Night (2019)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75674.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Demon (2015)" tvg-logo="http://mvu03.wanicelife.com:8880/images/91b020c58e8159b83f009131e00fc706.jpg" group-title="Poland",Demon (2015)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75675.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Diablo: The Utimate Race (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iJPxfZUIXEBCioJGvNyohyW8Uw.jpg" group-title="Poland",Diablo: The Utimate Race (2019)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75676.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Fast and Fierce: Death Race (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/c333f87c42b839ca9b4ec8071db0eea4.jpg" group-title="Poland",Fast and Fierce: Death Race (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75677.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Hatred (2016)" tvg-logo="http://mvu03.wanicelife.com:8880/images/7af08c00e02fb9f12e49e997c91b271c.jpg" group-title="Poland",Hatred (2016)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75678.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="Kill It and Leave This Town (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDMfChYB9GNDgrdefRt46JBFx1z.jpg" group-title="Poland",Kill It and Leave This Town (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75679.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Legiony.2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDMfChYB9GNDgrdefRt46JBFx1z.jpg" group-title="Poland",Legiony.2019
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75680.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Nobody Sleeps in the Woods Tonight (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/9af0acae37b7379d82321e1bf2f887e4.jpg" group-title="Poland",Nobody Sleeps in the Woods Tonight (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75681.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Over the Limit (2017)" tvg-logo="http://mvu03.wanicelife.com:8880/images/471f7329658bebfe812b45749c623cde.jpg" group-title="Poland",Over the Limit (2017)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75682.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Petla.2020" tvg-logo="http://mvu03.wanicelife.com:8880/images/471f7329658bebfe812b45749c623cde.jpg" group-title="Poland",Petla.2020
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75683.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Pitbull. Nowe porządki (2016)" tvg-logo="http://mvu03.wanicelife.com:8880/images/9ae97813280f3e86ba26d05209cd3dc5.jpg" group-title="Poland",Pitbull. Nowe porządki (2016)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75684.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Pitbull: Tough Women (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsK9VuKFm3CG84UxWLyiHXw7L6T.jpg" group-title="Poland",Pitbull: Tough Women (2016)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75685.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Planet Single (2016)" tvg-logo="http://mvu03.wanicelife.com:8880/images/e2386865604b29a2b26d86927992abbf.jpg" group-title="Poland",Planet Single (2016)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75686.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Planet Single 2 (2018)" tvg-logo="http://mvu03.wanicelife.com:8880/images/927dcfafdcac58a9905a2f08658b80e7.jpg" group-title="Poland",Planet Single 2 (2018)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75687.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Time (2021)" tvg-logo="http://mvu03.wanicelife.com:8880/images/27223188e59cbd47bb029f81a3808ac5.jpg" group-title="Poland",Prime Time (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75688.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Proceder (2019)" tvg-logo="http://mvu03.wanicelife.com:8880/images/d8cb6fd68858aaf3d1b5111e3341c1f2.jpg" group-title="Poland",Proceder (2019)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75689.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Psy 3: W imię zasad (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/e627f5b82f50106cc8c26f70082fd8ed.jpg" group-title="Poland",Psy 3: W imię zasad (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75690.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Special Effects (1984)" tvg-logo="http://mvu03.wanicelife.com:8880/images/c09fe940341deb87476356a0923968f2.jpg" group-title="Poland",Special Effects (1984)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75691.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Spoor (2017)" tvg-logo="http://mvu03.wanicelife.com:8880/images/6ed87ed0abb5cfda8f85b611098d1489.jpg" group-title="Poland",Spoor (2017)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75692.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Squared Love (2021)" tvg-logo="http://mvu03.wanicelife.com:8880/images/b0a0e85289912a8ad4113d48bebd6485.jpg" group-title="Poland",Squared Love (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75693.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="The Hater (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/8521073ba317b627afee7b5753de84dc.jpg" group-title="Poland",The Hater (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75694.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="The High Frontier (2016)" tvg-logo="http://mvu03.wanicelife.com:8880/images/fb9d0db73a62b8d63f8f5dce4b5ffb17.jpg" group-title="Poland",The High Frontier (2016)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75695.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="The Last Family (2016)" tvg-logo="http://mvu03.wanicelife.com:8880/images/80902a4a980bf17c0984e8bf7c2116e8.jpg" group-title="Poland",The Last Family (2016)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75696.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="The Man with the Magic Box (2017)" tvg-logo="http://mvu03.wanicelife.com:8880/images/4f4994fb9b6855fc5bbf189cb5286e71.jpg" group-title="Poland",The Man with the Magic Box (2017)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75697.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Werewolf.2018" tvg-logo="http://mvu03.wanicelife.com:8880/images/4f4994fb9b6855fc5bbf189cb5286e71.jpg" group-title="Poland",Werewolf.2018
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75698.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Women of Mafia 2 (2019)" tvg-logo="http://mvu03.wanicelife.com:8880/images/f6c9d160c5d7d8671ab09b0c7099102e.jpg" group-title="Poland",Women of Mafia 2 (2019)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75699.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Playing Hard (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hOjHHGT9MTkDPvv34mQaVKN15e.jpg" group-title="Poland",Playing Hard (2019)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/75700.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Banksters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5kaeEvkTJvmpMpVNX5r6eCYorq.jpg" group-title="Poland",Banksters (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/76140.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Petla (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gOotvACDrmpRP10tttmUOAelob.jpg" group-title="Poland",Petla (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/76141.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Skandal. Ewenement Molesty (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llnuLLdVFfh9qDteEmccnRUOG3.jpg" group-title="Poland",Skandal. Ewenement Molesty (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/76142.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="David and the Elves (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg" group-title="Poland",David and the Elves (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77865.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Furioza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg" group-title="Poland",Furioza (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77866.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="How I Fell in Love with a Gangster (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8VV1S1dcFiUBzrbwEZ26uyL40U.jpg" group-title="Poland",How I Fell in Love with a Gangster (2022)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77867.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="In for a Murder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg" group-title="Poland",In for a Murder (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77868.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Into the Wind (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lylZT9Czehopiln1D9hc1Bb84.jpg" group-title="Poland",Into the Wind (2022)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77869.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Invincible.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lylZT9Czehopiln1D9hc1Bb84.jpg" group-title="Poland",Invincible.2021
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77870.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Leave No Traces (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9dHy9Al2u8jN6G8T4eL81DSj9k.jpg" group-title="Poland",Leave No Traces (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77871.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="My Wonderful Life (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32FStOrYlaKTitw9m4ue3WmQTRX.jpg" group-title="Poland",My Wonderful Life (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77872.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Never Gonna Snow Again (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzp2uKcS7JYwOOFKh022MOamCpK.jpg" group-title="Poland",Never Gonna Snow Again (2020)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77873.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Operation Hyacinth (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUX2fGa7OV85c6rtjOC351RVeyD.jpg" group-title="Poland",Operation Hyacinth (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77874.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Second Half (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5YnEuLa9Yt073cNivM728393re.jpg" group-title="Poland",Second Half (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77875.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Small World (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNofyLBPsEjJUsmwTm9EGTEOGqx.jpg" group-title="Poland",Small World (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77876.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="The Balcony Movie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uEIjBnSWT4M63WKLWOQye8WLZq.jpg" group-title="Poland",The Balcony Movie (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77877.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="The Taming of the Shrewd (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JXsbuWTHWy9KieVRef5CmrzDN6.jpg" group-title="Poland",The Taming of the Shrewd (2022)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77878.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Zupa nic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvogO0McSSp2QorlZ9AJG2W2U38.jpg" group-title="Poland",Zupa nic (2021)
+http://152.89.62.76:8880/movie/kg14m3n1110/dssewaas123/77879.mp4
+#EXTINF:-1 tvg-id="polsat.sport.fight.pl" tvg-name="PL100:Polsat Sport Fight FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL100POLSATSportFightFHD.png" group-title="Poland",PL100:Polsat Sport Fight FHD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33432
+#EXTINF:-1 tvg-id="ext" tvg-name="------|xxx-VIP|------" tvg-logo="" group-title="XXX-VIP",------|xxx-VIP|------
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2986
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP001:Hustler HD" tvg-logo="" group-title="XXX-VIP",VIP001:Hustler HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2985
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP002:Redlight HD" tvg-logo="" group-title="XXX-VIP",VIP002:Redlight HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2984
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP003:Prıvate TV HD" tvg-logo="" group-title="XXX-VIP",VIP003:Prıvate TV HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2983
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP004:Dorcel HD" tvg-logo="" group-title="XXX-VIP",VIP004:Dorcel HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2982
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP005:Dorcel XxX HD" tvg-logo="" group-title="XXX-VIP",VIP005:Dorcel XxX HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2981
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP006:Vivid Red HD" tvg-logo="" group-title="XXX-VIP",VIP006:Vivid Red HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2980
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP007:Vixen HD" tvg-logo="" group-title="XXX-VIP",VIP007:Vixen HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2979
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP008:EroX XxX HD" tvg-logo="" group-title="XXX-VIP",VIP008:EroX XxX HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2978
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP009:Penthouse Gold HD" tvg-logo="" group-title="XXX-VIP",VIP009:Penthouse Gold HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2977
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP010:Penthouse Reality TV HD" tvg-logo="" group-title="XXX-VIP",VIP010:Penthouse Reality TV HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2976
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP011:Penthouse Passion HD" tvg-logo="" group-title="XXX-VIP",VIP011:Penthouse Passion HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2975
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP012:Super ONE HD" tvg-logo="" group-title="XXX-VIP",VIP012:Super ONE HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2974
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP013:Babes TV HD" tvg-logo="" group-title="XXX-VIP",VIP013:Babes TV HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2973
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP014:Xy Plus HD" tvg-logo="" group-title="XXX-VIP",VIP014:Xy Plus HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2972
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP015:Xy Mix HD" tvg-logo="" group-title="XXX-VIP",VIP015:Xy Mix HD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2971
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP016:Vivid TV Europe" tvg-logo="" group-title="XXX-VIP",VIP016:Vivid TV Europe
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2970
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP017:Vivid Touch" tvg-logo="" group-title="XXX-VIP",VIP017:Vivid Touch
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2969
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP018:DUSK!" tvg-logo="" group-title="XXX-VIP",VIP018:DUSK!
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2968
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP019:XXL" tvg-logo="" group-title="XXX-VIP",VIP019:XXL
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2967
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP020:Passie XxX" tvg-logo="" group-title="XXX-VIP",VIP020:Passie XxX
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2966
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP021:Passion XxX" tvg-logo="" group-title="XXX-VIP",VIP021:Passion XxX
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2965
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP022:Passion XxX Europe" tvg-logo="" group-title="XXX-VIP",VIP022:Passion XxX Europe
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2964
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP023:Reality Kings TV" tvg-logo="" group-title="XXX-VIP",VIP023:Reality Kings TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2963
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP024:Brazzers TV Europe" tvg-logo="" group-title="XXX-VIP",VIP024:Brazzers TV Europe
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2962
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP025:Brazzers TV Europe Ru" tvg-logo="" group-title="XXX-VIP",VIP025:Brazzers TV Europe Ru
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2961
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP026:Venus TV" tvg-logo="" group-title="XXX-VIP",VIP026:Venus TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2960
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP027:Sextreme TV" tvg-logo="" group-title="XXX-VIP",VIP027:Sextreme TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2959
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP028:Passion XxX 1" tvg-logo="" group-title="XXX-VIP",VIP028:Passion XxX 1
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/2958
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP029:Sexy HOT" tvg-logo="" group-title="XXX-VIP",VIP029:Sexy HOT
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33160
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP030:Meiden Van Holland Hard" tvg-logo="" group-title="XXX-VIP",VIP030:Meiden Van Holland Hard
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33159
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP031:Evil Angel" tvg-logo="" group-title="XXX-VIP",VIP031:Evil Angel
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33158
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP032:Erotic " tvg-logo="" group-title="XXX-VIP",VIP032:Erotic 
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33157
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP033:Erotic 2" tvg-logo="" group-title="XXX-VIP",VIP033:Erotic 2
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/77934
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP034:Erotic 3" tvg-logo="" group-title="XXX-VIP",VIP034:Erotic 3
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/77935
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP035:Erotic 4" tvg-logo="" group-title="XXX-VIP",VIP035:Erotic 4
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33156
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP036:Erotic 5" tvg-logo="" group-title="XXX-VIP",VIP036:Erotic 5
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/77936
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP037:Erotic 6" tvg-logo="" group-title="XXX-VIP",VIP037:Erotic 6
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33155
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP038:Erotic 7" tvg-logo="" group-title="XXX-VIP",VIP038:Erotic 7
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33154
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP039:Erotic 8" tvg-logo="" group-title="XXX-VIP",VIP039:Erotic 8
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33153
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP040:Bang U" tvg-logo="" group-title="XXX-VIP",VIP040:Bang U
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33152
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP041:USER DATE" tvg-logo="" group-title="XXX-VIP",VIP041:USER DATE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33151
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP042:WOLF WAGNER LOVE" tvg-logo="" group-title="XXX-VIP",VIP042:WOLF WAGNER LOVE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33150
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP043:Brunette" tvg-logo="" group-title="XXX-VIP",VIP043:Brunette
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33149
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP044:FOXXY" tvg-logo="" group-title="XXX-VIP",VIP044:FOXXY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33148
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP045:OnlyFans Mix 1" tvg-logo="" group-title="XXX-VIP",VIP045:OnlyFans Mix 1
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33147
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP046:NATALIE MARS" tvg-logo="" group-title="XXX-VIP",VIP046:NATALIE MARS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33146
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP047:Beate Uhse" tvg-logo="" group-title="XXX-VIP",VIP047:Beate Uhse
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33145
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP048:BRATTY SIS" tvg-logo="" group-title="XXX-VIP",VIP048:BRATTY SIS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33144
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP049:CASEY KISSES" tvg-logo="" group-title="XXX-VIP",VIP049:CASEY KISSES
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33143
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP050:Latina" tvg-logo="" group-title="XXX-VIP",VIP050:Latina
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33142
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP051:COLBY KNOX" tvg-logo="" group-title="XXX-VIP",VIP051:COLBY KNOX
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33141
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP052:DOGFART NETWORK" tvg-logo="" group-title="XXX-VIP",VIP052:DOGFART NETWORK
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33140
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP053:FLAVAWORKS" tvg-logo="" group-title="XXX-VIP",VIP053:FLAVAWORKS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33139
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP054:JAYS POV" tvg-logo="" group-title="XXX-VIP",VIP054:JAYS POV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33138
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP055:LETSDOIT" tvg-logo="" group-title="XXX-VIP",VIP055:LETSDOIT
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33137
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP056:MOFOS" tvg-logo="" group-title="XXX-VIP",VIP056:MOFOS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33136
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP057:NEXT DOOR RAW" tvg-logo="" group-title="XXX-VIP",VIP057:NEXT DOOR RAW
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33135
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP058:NF BUSTY" tvg-logo="" group-title="XXX-VIP",VIP058:NF BUSTY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33134
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP059:SPANKMONSTER" tvg-logo="" group-title="XXX-VIP",VIP059:SPANKMONSTER
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33133
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP060:SPIZOO" tvg-logo="" group-title="XXX-VIP",VIP060:SPIZOO
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33132
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP061:STEP SIBILINGS CAUGHT" tvg-logo="" group-title="XXX-VIP",VIP061:STEP SIBILINGS CAUGHT
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33131
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP062:SUGAR BABES TV" tvg-logo="" group-title="XXX-VIP",VIP062:SUGAR BABES TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33130
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP063:TREASURE ISLAND MEDIA" tvg-logo="" group-title="XXX-VIP",VIP063:TREASURE ISLAND MEDIA
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33129
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP064:MY PERVY FAMILY" tvg-logo="" group-title="XXX-VIP",VIP064:MY PERVY FAMILY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33128
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP065:TEANNA TRUMP" tvg-logo="" group-title="XXX-VIP",VIP065:TEANNA TRUMP
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33127
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP066:KYLER MOSS" tvg-logo="" group-title="XXX-VIP",VIP066:KYLER MOSS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33126
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP067:MAX KONNOR" tvg-logo="" group-title="XXX-VIP",VIP067:MAX KONNOR
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33125
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP068:PORNSTAR" tvg-logo="" group-title="XXX-VIP",VIP068:PORNSTAR
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33124
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP069:ROCCO STELLE" tvg-logo="" group-title="XXX-VIP",VIP069:ROCCO STELLE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33123
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP070:TEENS" tvg-logo="" group-title="XXX-VIP",VIP070:TEENS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33122
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP071:THREESOME" tvg-logo="" group-title="XXX-VIP",VIP071:THREESOME
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33121
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP072:CALVIN BANKS" tvg-logo="" group-title="XXX-VIP",VIP072:CALVIN BANKS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33120
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP073:JASMIN TV" tvg-logo="" group-title="XXX-VIP",VIP073:JASMIN TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33119
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP074:DE ANGELO" tvg-logo="" group-title="XXX-VIP",VIP074:DE ANGELO
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33118
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP075:JACK HUNTER" tvg-logo="" group-title="XXX-VIP",VIP075:JACK HUNTER
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33117
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP076:MEN" tvg-logo="" group-title="XXX-VIP",VIP076:MEN
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33116
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP077:BLOWJOB" tvg-logo="" group-title="XXX-VIP",VIP077:BLOWJOB
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33115
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP078:MILF" tvg-logo="" group-title="XXX-VIP",VIP078:MILF
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33114
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP079:ANAL" tvg-logo="" group-title="XXX-VIP",VIP079:ANAL
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33113
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP080:ASIAN" tvg-logo="" group-title="XXX-VIP",VIP080:ASIAN
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33112
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP081:BABYSITER" tvg-logo="" group-title="XXX-VIP",VIP081:BABYSITER
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33111
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP082:BIG COOK" tvg-logo="" group-title="XXX-VIP",VIP082:BIG COOK
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33110
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP083:3 WAY PORN" tvg-logo="" group-title="XXX-VIP",VIP083:3 WAY PORN
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33109
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP084:Blonde" tvg-logo="" group-title="XXX-VIP",VIP084:Blonde
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33108
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP085:BLACK" tvg-logo="" group-title="XXX-VIP",VIP085:BLACK
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33107
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP086:BLOND" tvg-logo="" group-title="XXX-VIP",VIP086:BLOND
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33106
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP087:Compilation" tvg-logo="" group-title="XXX-VIP",VIP087:Compilation
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33105
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP088:CASTING" tvg-logo="" group-title="XXX-VIP",VIP088:CASTING
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33104
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP089:Interracial" tvg-logo="" group-title="XXX-VIP",VIP089:Interracial
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33103
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP090:KISS" tvg-logo="" group-title="XXX-VIP",VIP090:KISS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33102
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP091:CREAMPIE" tvg-logo="" group-title="XXX-VIP",VIP091:CREAMPIE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33101
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP092:CROSPLAY" tvg-logo="" group-title="XXX-VIP",VIP092:CROSPLAY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33100
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP093:CUCKOLD" tvg-logo="" group-title="XXX-VIP",VIP093:CUCKOLD
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33099
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP094:Mia Khalifa" tvg-logo="" group-title="XXX-VIP",VIP094:Mia Khalifa
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33098
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP095:FETISH" tvg-logo="" group-title="XXX-VIP",VIP095:FETISH
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33097
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP096:FISTING" tvg-logo="" group-title="XXX-VIP",VIP096:FISTING
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33096
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP097:CHECH SEX CASTING" tvg-logo="" group-title="XXX-VIP",VIP097:CHECH SEX CASTING
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33095
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP098:HARDCORE" tvg-logo="" group-title="XXX-VIP",VIP098:HARDCORE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33094
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP099:HD PORN" tvg-logo="" group-title="XXX-VIP",VIP099:HD PORN
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33093
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP100:TONY PROFANE" tvg-logo="" group-title="XXX-VIP",VIP100:TONY PROFANE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33092
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP101:ITALY" tvg-logo="" group-title="XXX-VIP",VIP101:ITALY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33091
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP102:LESBIAN" tvg-logo="" group-title="XXX-VIP",VIP102:LESBIAN
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33090
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP103:MASSAGE" tvg-logo="" group-title="XXX-VIP",VIP103:MASSAGE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33089
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP104:MASTURBATION" tvg-logo="" group-title="XXX-VIP",VIP104:MASTURBATION
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33088
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP105:MY WIFE" tvg-logo="" group-title="XXX-VIP",VIP105:MY WIFE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33087
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP106:NAUGHTY" tvg-logo="" group-title="XXX-VIP",VIP106:NAUGHTY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33086
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP107:NURSE" tvg-logo="" group-title="XXX-VIP",VIP107:NURSE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33085
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP108:Publick Agent" tvg-logo="" group-title="XXX-VIP",VIP108:Publick Agent
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33084
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP109:OUTDOOR" tvg-logo="" group-title="XXX-VIP",VIP109:OUTDOOR
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33083
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP110:POLICE OFFICER" tvg-logo="" group-title="XXX-VIP",VIP110:POLICE OFFICER
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33082
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP111:Blacked 4" tvg-logo="" group-title="XXX-VIP",VIP111:Blacked 4
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33081
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP112:REALITY" tvg-logo="" group-title="XXX-VIP",VIP112:REALITY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33080
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP113:COSMID" tvg-logo="" group-title="XXX-VIP",VIP113:COSMID
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33079
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP114:RUSSIA" tvg-logo="" group-title="XXX-VIP",VIP114:RUSSIA
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33078
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP115:SCHOOL" tvg-logo="" group-title="XXX-VIP",VIP115:SCHOOL
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33077
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP116:STUDENT" tvg-logo="" group-title="XXX-VIP",VIP116:STUDENT
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33076
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP117:SWINGER" tvg-logo="" group-title="XXX-VIP",VIP117:SWINGER
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33075
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP118:TEENIE" tvg-logo="" group-title="XXX-VIP",VIP118:TEENIE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33074
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP119:THREE" tvg-logo="" group-title="XXX-VIP",VIP119:THREE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/33073
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP120:GEFANGENE" tvg-logo="" group-title="XXX-VIP",VIP120:GEFANGENE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60658
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP122:PINK O TV" tvg-logo="" group-title="XXX-VIP",VIP122:PINK O TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60659
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP123:BEATE-UHSE TV" tvg-logo="" group-title="XXX-VIP",VIP123:BEATE-UHSE TV
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60660
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP124:DORCEL HD [VIP]" tvg-logo="" group-title="XXX-VIP",VIP124:DORCEL HD [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60661
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP125:SYBL" tvg-logo="" group-title="XXX-VIP",VIP125:SYBL
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60662
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP126:Blacked 5" tvg-logo="" group-title="XXX-VIP",VIP126:Blacked 5
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60663
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP127:BUMSBUS" tvg-logo="" group-title="XXX-VIP",VIP127:BUMSBUS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60664
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP128:DEUTSCHLAND REPORT" tvg-logo="" group-title="XXX-VIP",VIP128:DEUTSCHLAND REPORT
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60665
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP129:EROTIK VON BENAN" tvg-logo="" group-title="XXX-VIP",VIP129:EROTIK VON BENAN
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60666
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP130:HITZEFREI" tvg-logo="" group-title="XXX-VIP",VIP130:HITZEFREI
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60667
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP131:REIFE SWINGER" tvg-logo="" group-title="XXX-VIP",VIP131:REIFE SWINGER
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60668
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP132:Casual Teen Sex 2" tvg-logo="" group-title="XXX-VIP",VIP132:Casual Teen Sex 2
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60669
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP133:GAY [VIP]" tvg-logo="" group-title="XXX-VIP",VIP133:GAY [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60670
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP134:PINK EROTIC 2 [VIP]" tvg-logo="" group-title="XXX-VIP",VIP134:PINK EROTIC 2 [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60671
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP135:PINK EROTIC 3 [VIP]" tvg-logo="" group-title="XXX-VIP",VIP135:PINK EROTIC 3 [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60672
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP136:PINK EROTIC 4 [VIP]" tvg-logo="" group-title="XXX-VIP",VIP136:PINK EROTIC 4 [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60673
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP137:PINK EROTIC 5 [VIP]" tvg-logo="" group-title="XXX-VIP",VIP137:PINK EROTIC 5 [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60674
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP138:PINK EROTIC 7 [VIP]" tvg-logo="" group-title="XXX-VIP",VIP138:PINK EROTIC 7 [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60675
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP139:PINK EROTIC 8 [VIP]" tvg-logo="" group-title="XXX-VIP",VIP139:PINK EROTIC 8 [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60676
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP140:EXTASY HD [VIP]" tvg-logo="" group-title="XXX-VIP",VIP140:EXTASY HD [VIP]
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60677
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP141:Porno Movies" tvg-logo="" group-title="XXX-VIP",VIP141:Porno Movies
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60678
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP142:Playboy" tvg-logo="" group-title="XXX-VIP",VIP142:Playboy
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60679
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP143:8TH STREET" tvg-logo="" group-title="XXX-VIP",VIP143:8TH STREET
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60680
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP144:ALL GROUP SEX" tvg-logo="" group-title="XXX-VIP",VIP144:ALL GROUP SEX
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60681
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP145:SuperOne" tvg-logo="" group-title="XXX-VIP",VIP145:SuperOne
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60682
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP146:ASIAN BONDAGE" tvg-logo="" group-title="XXX-VIP",VIP146:ASIAN BONDAGE
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60683
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP147:ASIAN SEX DIARY" tvg-logo="" group-title="XXX-VIP",VIP147:ASIAN SEX DIARY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60684
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP148:BENEFIT MONKEY" tvg-logo="" group-title="XXX-VIP",VIP148:BENEFIT MONKEY
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60685
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP149:BLACK GFS" tvg-logo="" group-title="XXX-VIP",VIP149:BLACK GFS
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60686
+#EXTINF:-1 tvg-id="ext" tvg-name="VIP150:Playboy Europe" tvg-logo="" group-title="XXX-VIP",VIP150:Playboy Europe
+http://152.89.62.76:8880/kg14m3n1110/dssewaas123/60687
